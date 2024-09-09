@@ -6,7 +6,7 @@ TEST(BinaryCountTests, TestRange1) {
 }
 
 TEST(BinaryCountTests, TestRange2) {
-    EXPECT_EQ(utils::countDigit1OfBinaryNumbersInRange(0, 0), 0); // 0 → 0 единиц
+    EXPECT_EQ(utils::countDigit1OfBinaryNumbersInRange(0, 0), 0); // 0 → 0
 }
 
 TEST(BinaryCountTests, TestRange3) {
