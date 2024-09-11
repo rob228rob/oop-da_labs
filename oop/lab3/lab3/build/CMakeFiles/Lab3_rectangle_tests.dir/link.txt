@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Lab3_rectangle_tests.dir/tests/rectangle_tests.cpp.o -o Lab3_rectangle_tests  libLab3_lib.a lib/libgtest_main.a lib/libgtest.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLab3_lib.a CMakeFiles/Lab3_lib.dir/src/containers/FiguresVector.cpp.o CMakeFiles/Lab3_lib.dir/src/containers/vector.cpp.o CMakeFiles/Lab3_lib.dir/src/figures/Point.cpp.o CMakeFiles/Lab3_lib.dir/src/figures/Rectangle.cpp.o CMakeFiles/Lab3_lib.dir/src/figures/Square.cpp.o CMakeFiles/Lab3_lib.dir/src/figures/Triangle.cpp.o
+/usr/bin/ranlib libLab3_lib.a

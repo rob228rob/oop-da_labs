@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLab6_lib.a CMakeFiles/Lab6_lib.dir/src/factory/NPCFactory.cpp.o CMakeFiles/Lab6_lib.dir/src/mobs/NPC.cpp.o CMakeFiles/Lab6_lib.dir/src/mobs/Orc.cpp.o CMakeFiles/Lab6_lib.dir/src/mobs/Outlaw.cpp.o CMakeFiles/Lab6_lib.dir/src/mobs/Werewolf.cpp.o CMakeFiles/Lab6_lib.dir/src/observers/ConsoleObserver.cpp.o CMakeFiles/Lab6_lib.dir/src/observers/LogObserver.cpp.o
+/usr/bin/ranlib libLab6_lib.a

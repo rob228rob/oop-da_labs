@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Lab3_square_tests.dir/tests/square_tests.cpp.o -o Lab3_square_tests  libLab3_lib.a lib/libgtest_main.a lib/libgtest.a 

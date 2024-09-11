@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Lab6_game_tests.dir/tests/game_tests.cpp.o -o Lab6_game_tests  libLab6_lib.a lib/libgtest_main.a lib/libgtest.a 
