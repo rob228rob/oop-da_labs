@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Lab6_exe.dir/run.cpp.o -o Lab6_exe  libLab6_lib.a 
